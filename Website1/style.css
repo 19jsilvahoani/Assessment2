@@ -1,0 +1,44 @@
+h1 {
+    background-color: darkgray;
+    text-align: center;
+    padding: 35px;
+}
+
+h2 {
+     background-color: darkgray;
+    text-align: center;
+    padding: 25px;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+     
+    
+}
+img {
+
+    margin: 0 auto;
+    display: block;
+    width: 75%;
+}
+
+ul {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
+
+html {
+    background-color: lightgray;
+}
+
+footer {
+    background-color: black;
+}
+
+a  {
+    color:whitesmoke;
+}
